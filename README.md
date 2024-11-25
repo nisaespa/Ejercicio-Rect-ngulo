@@ -1,1 +1,1 @@
-# Ejercicio-Rect-ngulo
+# Ejercicio Rectángulo
